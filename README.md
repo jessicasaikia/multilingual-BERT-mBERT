@@ -32,7 +32,7 @@ I used Google Colab for this Model.
 6. The output will be displayed and saved as a different CSV file.
 
 You can also VScode or any other platform (this code is just a python code)
-1. In this case, you will have to make sure you have the necessary libraries installed and dictionaries loaded correctly.
+1. In this case, you will have to make sure you have the necessary libraries installed and datasets loaded correctly.
 2. Run the program for the output.
    
 ## Additional Notes from me
